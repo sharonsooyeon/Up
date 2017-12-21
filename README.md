@@ -3,7 +3,7 @@ CS 307 Graphics Final Project
 
 Link to demo: Coming soon!
 
-# To view the demo:
+## To view the demo:
   1) Clone the repository
   2) Open Terminal and `cd` to the repository
   3) Run `python -m SimpleHTTPServer`
