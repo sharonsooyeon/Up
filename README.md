@@ -2,7 +2,7 @@
 CS 307 Graphics Final Project
 
 ## To view the demo:
-Link to demo: http://sharonsooyeon.com/up/demo.html
+Link to demo: http://sharonsooyeon.github.io/up/demo.html
 
 ## Description
 For our final project, we decided to recreate one of the iconic scenes from Up (http://www.pickchur.com/wp-content/uploads/2011/03/pixar-up-house.png), the 2009 Pixar film about the adventures of a widowed, elderly man and his young companion.
